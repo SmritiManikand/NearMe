@@ -51,7 +51,7 @@ MAIN WEB PAGE
 </body>
 </html>
 
-PALAYAMKOTTAI
+PALAYAMKOTTAI.HTML
 
 <html>
 <head>
@@ -70,7 +70,7 @@ PALAYAMKOTTAI
 </body>
 </html>
 
-REDDIARPATTI
+REDDIARPATTI.HTML
 
 <html>
 <head>
@@ -89,7 +89,7 @@ REDDIARPATTI
 </body>
 </html>
 
-MELAPALAYAM
+MELAPALAYAM.HTML
 
 <html>
 <head>
@@ -108,7 +108,7 @@ MELAPALAYAM
 </body>
 </html>
 
-VM CHATRAM
+VMCHATRAM.HTML
 
 <html>
 <head>
@@ -127,7 +127,7 @@ VM CHATRAM
 </body>
 </html>
 
-PETTAI
+PETTAI.HTML
 
 <html>
 <head>
@@ -153,23 +153,23 @@ MAIN WEB PAGE
 
 <img width="956" alt="s1" src="https://github.com/SmritiManikand/NearMe/assets/113674204/178e1e75-9170-4b75-8db9-c66e936b0aeb">
 
-PALAYAMKOTTAI
+PALAYAMKOTTAI.HTML
 
 <img width="959" alt="s2" src="https://github.com/SmritiManikand/NearMe/assets/113674204/af8fa9b7-b329-459e-91b4-6722213514b1">
 
-REDDIARPATTI
+REDDIARPATTI.HTML
 
 <img width="959" alt="s3" src="https://github.com/SmritiManikand/NearMe/assets/113674204/7c36a8e9-28bb-4f8d-b5ef-96fffed1fe52">
 
-MELAPALAYAM
+MELAPALAYAM.HTML
 
 <img width="959" alt="s4" src="https://github.com/SmritiManikand/NearMe/assets/113674204/dadb5efd-fe06-41c8-97a7-49db1c451032">
 
-VM CHATRAM
+VMCHATRAM.HTML
 
 <img width="956" alt="s5" src="https://github.com/SmritiManikand/NearMe/assets/113674204/8f5416a8-ae8c-44c0-92f4-a477655a5fcf">
 
-PETTAI
+PETTAI.HTML
 
 <img width="958" alt="s6" src="https://github.com/SmritiManikand/NearMe/assets/113674204/c0b257c1-37d6-4c17-896e-453be2a7f45e">
 
