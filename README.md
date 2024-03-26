@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 26.03.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,7 +25,10 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 ```
+MAIN WEB PAGE
+
 <html>
 <head>
 <title>Locations near me</title>
@@ -48,6 +51,7 @@ Execute the programs and publish them.
 </body>
 </html>
 
+PALAYAMKOTTAI
 
 <html>
 <head>
@@ -66,6 +70,8 @@ Execute the programs and publish them.
 </body>
 </html>
 
+REDDIARPATTI
+
 <html>
 <head>
 <title>Location 2</title>
@@ -82,6 +88,8 @@ Execute the programs and publish them.
 3. The total geographical area of village is 9.61 hectares.Tirunelveli is nearest town to muthur reddiarpatti for all major economic activities, which is approximately 5km away.
 </body>
 </html>
+
+MELAPALAYAM
 
 <html>
 <head>
@@ -100,6 +108,8 @@ Execute the programs and publish them.
 </body>
 </html>
 
+VM CHATRAM
+
 <html>
 <head>
 <title>Location 4</title>
@@ -116,6 +126,8 @@ Execute the programs and publish them.
 3. About 40 acres of agricultural land gets irrigation facility through these ponds. Earth crops such as khatari, mung bean, sugarcane and other crops such as paddy and banana are cultivated here. 
 </body>
 </html>
+
+PETTAI
 
 <html>
 <head>
@@ -137,17 +149,27 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
+MAIN WEB PAGE
 
 <img width="956" alt="s1" src="https://github.com/SmritiManikand/NearMe/assets/113674204/178e1e75-9170-4b75-8db9-c66e936b0aeb">
 
+PALAYAMKOTTAI
 
 <img width="959" alt="s2" src="https://github.com/SmritiManikand/NearMe/assets/113674204/af8fa9b7-b329-459e-91b4-6722213514b1">
 
+REDDIARPATTI
+
 <img width="959" alt="s3" src="https://github.com/SmritiManikand/NearMe/assets/113674204/7c36a8e9-28bb-4f8d-b5ef-96fffed1fe52">
+
+MELAPALAYAM
 
 <img width="959" alt="s4" src="https://github.com/SmritiManikand/NearMe/assets/113674204/dadb5efd-fe06-41c8-97a7-49db1c451032">
 
+VM CHATRAM
+
 <img width="956" alt="s5" src="https://github.com/SmritiManikand/NearMe/assets/113674204/8f5416a8-ae8c-44c0-92f4-a477655a5fcf">
+
+PETTAI
 
 <img width="958" alt="s6" src="https://github.com/SmritiManikand/NearMe/assets/113674204/c0b257c1-37d6-4c17-896e-453be2a7f45e">
 
